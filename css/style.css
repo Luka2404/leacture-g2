@@ -1,0 +1,129 @@
+.logo{
+    vertical-align: middle;
+    margin-left: 25px;
+    margin-right: 80px;
+    display: inline-block;
+}
+.nav-header{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+}
+.img-li{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.li-header{
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    margin-right: 20px;
+}
+.li-a{
+    color: gray;
+    font-size: 12px;
+}
+.li-a-1{
+    color: black;
+}
+.conteiner{
+    width: 1170px;
+    margin: 0 auto;
+}
+.section-1{
+    margin-top: 60px;
+}
+.tranding{
+    transition: transform 0.45s ease;
+}
+.tranding:hover{
+    transform: scale(1.1);
+    color: red;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: black;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.wrapper{
+    position: relative;
+    display: inline-block;
+    width: 360px;
+    height: 360px;
+    background-color: white;
+    margin-right: 25px;
+}
+.absolute-text2{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    color: #A6ADB4;
+    font-size: 14px;
+    bottom: 85px;
+    left: 40px;
+    right: 80px;
+}
+.absolute-text3{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    color: #A6ADB4;
+    bottom: 40px;
+    left: 70px;
+    right: 70px;
+}
+.img-1{
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}
+.first-block{
+    width: 760px;
+    height: 430px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+.second-block{
+    display: inline-block;
+    width: 360px;
+    height: 200px;
+    vertical-align: top;
+}
+.sec-2-img{
+    transition: transform 0.35s ease;
+    margin-bottom: 40px;
+}
+.sec-2-img:hover{
+    transform: scale(1.09);
+
+    width: 100%;
+}
+.sec-2-img-1{
+    transition: transform 0.35s ease;
+    vertical-align: middle;
+    margin-bottom: 50px;
+}
+.sec-2-img-{
+    transition: transform 0.35s ease;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.sec-2-img-:hover{
+    transform: scale(1.09);
+    width: 100%;
+    z-index: 1;
+  }
+  .sec-2-img-1:hover{
+    transform: scale(1.09);
+    width: 100%;
+    z-index: 1;
+  }
+.text-11{
+    transition: transform 1s ease;
+    
+}
+.text-11:hover{
+    transform: scale(1.1);
+    color: aqua;
+}
